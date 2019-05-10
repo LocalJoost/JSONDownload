@@ -1,0 +1,12 @@
+.vs
+/*.sln
+/*.csproj
+/Library
+/Temp
+/UnityPackageManager
+/obj
+/QCAR
+/App
+/Assets/WSATestCertificate.pfx.meta
+/Assets/WSATestCertificate.pfx
+/UWP
